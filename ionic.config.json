@@ -1,0 +1,7 @@
+{
+  "name": "palavritas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
